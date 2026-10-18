@@ -54,4 +54,4 @@ This is an educational estimate and not a salary guarantee. The dataset has many
 
 For Streamlit Community Cloud, push this project to a GitHub repository, then create an app using the repository's `main` branch and `app.py` as the entry point. Ensure the dataset and generated `models/salary_model.joblib` plus `models/metrics.json` are committed only if you have permission to redistribute the dataset and model. Community Cloud builds the app from `requirements.txt`; after deployment, add the resulting URL here.
 
-No live application URL is configured yet.
+Live application: [Salary Prediction app](https://salary-scope-estimator.streamlit.app/)
